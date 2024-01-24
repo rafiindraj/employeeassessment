@@ -1,7 +1,10 @@
 # EmployeeProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
-do 'npm install --legacy-peer-deps' before run the development server
+
+## Prequisites
+
+do `npm install --legacy-peer-deps` before run the development server
 
 ## Development server
 
